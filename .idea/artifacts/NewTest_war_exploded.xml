@@ -7,6 +7,10 @@
         <element id="directory" name="classes">
           <element id="module-output" name="NewTest" />
         </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="jstl-1.2" />
+          <element id="library" level="project" name="mysql-connector-java-5.1.48" />
+        </element>
       </element>
     </root>
   </artifact>
