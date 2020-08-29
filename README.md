@@ -2,3 +2,4 @@
 
 first go to index.jsp   
 i wrote the instruction on comments
+go to web/index.jsp
