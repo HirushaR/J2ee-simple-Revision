@@ -49,6 +49,7 @@
 </ul>
 <div class="AddItem">
   <h1>Add New</h1>
+<%--  when click submit data will goto Insert--%>
 <%--  Insert is the servlet that handle the insert data operation --%>
 <%--    src/servlet/Insert is the location --%>
 <%--  we send data in post method --%>
